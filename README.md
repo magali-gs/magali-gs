@@ -5,8 +5,8 @@ I'm from Brazil, living in Berlin and currently studying Full Stack Web Developm
 
 ```js
 const maga = {
-  code: [Javascript, HTML, CSS, Node.js, Python],
-  frameworks: [Vue.js, Express.js, JQuery, Jest],
+  code: [Javascript, HTML, CSS, Node, Python],
+  frameworks: [Vue, Express, JQuery, Jest],
   database: Postgres,
   dataframe: [Panda, NumPy],
   tools: "git",
