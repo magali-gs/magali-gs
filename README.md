@@ -1,4 +1,4 @@
-### Hi there, I'm Magali <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" width="100px"> ###
+### Hi there, I'm Magali <img src="https://emoji.slack-edge.com/T01EFB28RC3/pikachu_hi/c77b6592d6f91b02.gif" width="30px"> ###
 
 I'm from Brazil, living in Berlin and currently studying Full Stack Web Developmentat at Spiced Academy. 
 
