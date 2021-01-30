@@ -1,6 +1,6 @@
 ### Hi there, I'm Magali <img src="https://emoji.slack-edge.com/T01EFB28RC3/pikachu_hi/c77b6592d6f91b02.gif" width="30px"> ###
 
-I'm from Brazil, living in Berlin and currently studying Full Stack Web Developmentat at Spiced Academy. 
+I'm a Full Stack Web Developer from Brazil, living in Berlin, and recently graduated from Spiced Academy.
 
 
 ```js
