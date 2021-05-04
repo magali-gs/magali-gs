@@ -6,7 +6,8 @@ I'm a Full Stack Web Developer from Brazil, living in Berlin, and recently gradu
 ```js
 const maga = {
   code: [Javascript, HTML, CSS, Node, Python],
-  frameworks: [React, Vue, Express, JQuery, Jest],
+  frameworks: [Vue, Express, Jest],
+  libraries: [React, Redux, JQuery],
   database: "Postgres",
   dataframe: [Panda, NumPy],
   tools: git,
