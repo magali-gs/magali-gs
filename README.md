@@ -24,7 +24,6 @@ You can find me on
 
 ![Plotly](https://img.shields.io/badge/Plotly.js-black?style=flat-square&logo=plotly)
 ![Jest](https://img.shields.io/badge/Jest-e035a4?style=flat-square&logo=Jest)
-![Firebase](https://img.shields.io/badge/Firebase-0081CB?style=flat-square&logo=firebase)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
