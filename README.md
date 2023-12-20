@@ -2,7 +2,7 @@
 
 My name is **Magali** and I'm a **Front-end Developer** from Brazil, living in Berlin, and currently working at Futurice. 
 You can find me on
-<a href="https://linkedin.com/in/magaligoncalvess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magaligoncalvess" height="12.5" width="15" /></a>.
+<a href="https://linkedin.com/in/magaligoncalvess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn icon" height="12.5" width="15" /></a>.
 
 ## Technologies & Tools ##
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -30,18 +30,3 @@ You can find me on
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-
-
-
-<!--
-```js
-const maga = {
-  code: [Javascript, HTML, CSS, Node, Python],
-  frameworks: [Vue, Express, Jest],
-  libraries: [React, Redux, JQuery],
-  database: "Postgres",
-  dataframe: [Panda, NumPy],
-  tools: git,
-  hobbies: ["Knit", "Crochet", "Embroidery"]
-}
-``` -->
