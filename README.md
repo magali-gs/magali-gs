@@ -1,6 +1,6 @@
 # Hi there #
 
-My name is **Magali** and I'm a **Front-end Developer** from Brazil, living in Berlin, and currently working at Futurice. 
+My name is **Magali** and I'm a **Front-end Developer** from Brazil, living in Berlin, and currently working at Ecosia. 
 You can find me on
 <a href="https://linkedin.com/in/magaligoncalvess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn icon" height="12.5" width="15" /></a>.
 
